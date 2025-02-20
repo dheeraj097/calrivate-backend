@@ -48,4 +48,5 @@ The project uses environment variables to configure the database connection. Cre
 ## Verifying the setup
 
 visit http://localhost:3001/products and you will see the api response something like this
+
 ![image](https://github.com/user-attachments/assets/b94850fd-d222-4672-ae8f-7897fedf6fad)
